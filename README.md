@@ -41,7 +41,7 @@
 - Customer Segmentation – Breaks customers into groups for better strategy planning.
 - Product Profitability – Shows which products contribute most to overall profit.
 
-#🛠 Tools & Skills Used
+# 🛠 Tools & Skills Used
 
 Power BI Desktop – For building interactive dashboards and reports.
 
