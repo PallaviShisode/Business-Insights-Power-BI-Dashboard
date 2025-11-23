@@ -1,7 +1,4 @@
-# Business-Insights-Power-BI-Dashboard
-
-## 📁 Download PBIX File
-🔗 https://app.powerbi.com/view?r=eyJrIjoiYWExZTI2YjctYjBkOS00YjdmLWJmMzItMTc2Y2ZhYWQ3MTE1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+# Business-Insights-Power-BI-Dashboard 
 
 
 # ⭐ Project Highlights
