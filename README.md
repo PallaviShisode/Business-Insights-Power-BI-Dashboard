@@ -14,37 +14,42 @@
 
 # 🖥️ Dashboards Included
 
-📌 Finance Dashboard
-- Net Sales & Gross Margin
-- Profit YOY Comparison
-- Key financial KPIs
+**📌 Finance Dashboard**
 
-📌 Sales Dashboard
-- Region-wise Sales
-- Top & Bottom Performing Products
-- Monthly Trends
+- Net Sales & Gross Margin – Shows overall revenue and profitability trends to understand financial health.
+- Profit YOY Comparison – Compares profits across years to identify growth or decline.
+- Key Financial KPIs – Tracks important metrics like operating cost, profit %, and revenue contribution.
 
-📌 Supply Chain Dashboard
-- Forecast Accuracy
-- Error Metrics
-- Demand Overview
+**📌 Sales Dashboard**
+- Region-wise Sales – Highlights performance across different regions to spot high- and low-performing areas.
+- Top & Bottom Performing Products – Identifies bestsellers and underperformers to support decision-making.
+- Monthly Trends – Displays monthly sales movement to understand seasonality and demand patterns.
 
-📌 Marketing Dashboard
-- Performance Matrix
-- Unit Economics
-- Demand Overview
-- 
-📌 Executive Summary
-- Performance vs. Targets
-- Trend Analysis
-- Customer Segmentation
-- Product Profitability
+**📌 Supply Chain Dashboard**
+- Forecast Accuracy – Measures how accurate demand forecasting is compared to actuals.
+- Error Metrics – Shows error % and deviations to improve forecasting quality.
+- Demand Overview – Summarizes total demand to support inventory and production planning.
 
-🛠 Tools & Skills Used
-- Power BI Desktop
-- Power Query (data cleaning)
-- DAX (measures & KPIs)
-- Excel(Raw data)
+**📌 Marketing Dashboard**
+- Performance Matrix – Evaluates marketing performance across channels, campaigns, and KPIs.
+- Unit Economics – Provides cost-per-lead, revenue-per-customer, and ROI insights.
+- Demand Overview – Shows customer engagement and demand generated through campaigns.
+
+**📌 Executive Summary Dashboard**
+- Performance vs. Targets – Compares actual performance against business goals.
+- Trend Analysis – Displays key business trends for quick leadership insights.
+- Customer Segmentation – Breaks customers into groups for better strategy planning.
+- Product Profitability – Shows which products contribute most to overall profit.
+
+#🛠 Tools & Skills Used
+
+Power BI Desktop – For building interactive dashboards and reports.
+
+Power Query – Used for data cleaning, transformation, and modeling.
+
+DAX – Created calculated columns, measures, and KPIs.
+
+Excel (Raw Data) – Source datasets used before loading into Power BI.
 
 # About Me
 
